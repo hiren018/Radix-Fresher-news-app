@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "16158048142",
+    "project_id": "radix-freshers-a5a79",
+    "storage_bucket": "radix-freshers-a5a79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16158048142:android:a46ed6009cfb7b46afaedf",
+        "android_client_info": {
+          "package_name": "com.example.radix_freshers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16158048142-1de2hpbcgvpsq4ujrkhgm0r3m4fihmrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.radix_freshers",
+            "certificate_hash": "0058e251a5d33067212f5a6d1085a56b4003746a"
+          }
+        },
+        {
+          "client_id": "16158048142-1icjhhg44vog3qmcpalc6del5hih0ate.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWYXEvdB5RBVdlgRa_nUmTpzMIE4_-rps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16158048142-1icjhhg44vog3qmcpalc6del5hih0ate.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
